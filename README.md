@@ -4,11 +4,24 @@ Controlling passwords and implementing security policies
 One of the responsibilities of a governance analyst is to gauge the effectiveness of controls implemented and minimize the probability of a successful breach. If you are a security professional, you will often need to know the methods that hackers use to defeat controls implemented within an organization, as well as suggest ways to improve security overall. Once the attackers acquire valid credentials they can access an organization's IT system, which allows them to avoid many of the perimeter security controls in place.
 
 # Project's sample data
-Here is a sample data file containing hashes dumped together: 
+Here is a sample data file containing hashes dumped together: https://github.com/Twinklehingu/Goldman-Sachs-Crack-leaked-password-database/blob/main/Password_dump.txt
+
 
 
 # Description
-Using the password dump file's 19 hashcodes I was able to crack 9 passwords: 
+Using the password dump file's 19 hashcodes I was able to crack 9 passwords: https://crackstation.net/
+
+
+experthead:     e10adc3949ba59abbe56e057f20f883e              md5                  123456
+interestec:     25f9e794323b453885f5181f1b624d0b              md5                  123456789   
+ortspoon:       d8578edf8458ce06fbc5bb76a58c5ca4              md5                  qwerty
+popularkiya7:   e99a18c428cb38d5f260853678922e03              md5                  abc123
+eatingcake1994: fcea920f7412b5da7be0cf42b8c93759              md5                  1234567
+heroanhart:     7c6a180b36896a0a8c02787eeafb0e4c              md5                  password1
+reallychel:     5f4dcc3b5aa765d61d8327deb882cf99              md5                  password
+simmson56:      96e79218965eb72c92a549dd5a330112              md5                  111111
+bookma:         25d55ad283aa400af464c76d713c07ad              md5                  12345678
+
 
 
 # Project report
